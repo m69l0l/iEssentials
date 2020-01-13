@@ -1,0 +1,46 @@
+name: iEssentials
+version: 1.0.4-ORIGINAL
+main: dev.m69.iessentials.main.iEssentials
+author: m69
+commands:
+  teleport:
+    aliases: ["tp", "tele", "tport", "tpo"]
+    description: teleport
+  teleportall:
+    aliases: ["tpall", "teleall"]
+    description: teleport all
+  teleporthere:
+    aliases: ["tphere", "telehere", "tph"]
+    description: teleport here.
+  gamemode:
+    aliases: ["gm", "gamem", "gmode"]
+    description: gamemode change
+  gmc:
+  gms:
+  gma:
+  list:
+    aliases: ["online", "onlineplayers"]
+    description: Online players
+  helpop:
+    aliases: ["request"]
+    description: helpop
+  iessentials:
+    aliases: ["author", "coreauthor", "creator", "core"]
+    description: Creator
+  whois:
+    aliases: ["playerinfo", "info"]
+    description: WhoIs
+  broadcast:
+    aliases: ["bc", "alert"]
+    description: broadcast
+  report:
+  ping:
+  fly:
+  flyall:
+  freeze:
+  slowchat:
+    aliases: ["chatslow"]
+    description: Slows the chat
+  vanish:
+    aliases: ["v"]
+    description: vanish
